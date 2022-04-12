@@ -1,0 +1,15 @@
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.csproj.AssemblyReference.cache
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.AssemblyInfoInputs.cache
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.AssemblyInfo.cs
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.csproj.CoreCompileInputs.cache
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\bin\Debug\net6.0\homework_1104_4.exe
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\bin\Debug\net6.0\homework_1104_4.deps.json
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\bin\Debug\net6.0\homework_1104_4.runtimeconfig.json
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\bin\Debug\net6.0\homework_1104_4.dll
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\bin\Debug\net6.0\homework_1104_4.pdb
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.dll
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\refint\homework_1104_4.dll
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.pdb
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\homework_1104_4.genruntimeconfig.cache
+C:\git\lesson1_seminar\Programming_lessons\homework_1104_4\obj\Debug\net6.0\ref\homework_1104_4.dll
