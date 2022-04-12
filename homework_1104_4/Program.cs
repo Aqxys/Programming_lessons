@@ -10,9 +10,6 @@ while(count < number)
             Console.Write(count);
             Console.Write(", ");
         }
-        else
-        {
-            Console.Write("");
-        }
+    
 }
 
