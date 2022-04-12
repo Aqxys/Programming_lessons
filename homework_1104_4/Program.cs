@@ -2,11 +2,17 @@
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int count = 0;
-
 while(count < number) 
 {
-    count +=2;
-    Console.Write(count);
-    Console.Write(", ");
+    count +=1;
+        if(count % 2 == 0)
+        {
+            Console.Write(count);
+            Console.Write(", ");
+        }
+        else
+        {
+            Console.Write("");
+        }
 }
 
