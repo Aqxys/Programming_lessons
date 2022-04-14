@@ -1,0 +1,15 @@
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\bin\Debug\net6.0\seminar_2.exe
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\bin\Debug\net6.0\seminar_2.deps.json
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\bin\Debug\net6.0\seminar_2.runtimeconfig.json
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\bin\Debug\net6.0\seminar_2.dll
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\bin\Debug\net6.0\seminar_2.pdb
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.csproj.AssemblyReference.cache
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.AssemblyInfoInputs.cache
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.AssemblyInfo.cs
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.csproj.CoreCompileInputs.cache
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.dll
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\refint\seminar_2.dll
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.pdb
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\seminar_2.genruntimeconfig.cache
+C:\git\lesson1_seminar\Programming_lessons\seminar_2\obj\Debug\net6.0\ref\seminar_2.dll
