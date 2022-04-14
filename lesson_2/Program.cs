@@ -1,33 +1,24 @@
-﻿// Дни недели по цифрам
-Console.WriteLine("Введите число дня недели: ");
-int number = Convert.ToInt32(Console.ReadLine());
+﻿// Вторая лекция
+int Max(int arg1, int arg2, int arg3)
+{
+    int result = arg1;
+    if (arg2 > result) result = arg2;
+    if (arg3 > result) result = arg3;
+    return result;
+}
+int a1 = 13;
+int b1 = 16;
+int c1 = 19;
+int a2 = 11;
+int b2 = 1098;
+int c2 = 17;
+int a3 = 14;
+int b3 = 15;
+int c3 = 18;
 
-if  (number==1)
-{
-    Console.WriteLine("Понедельник");
-}
+int max1 = Max(a1, b1, c1);
+int max2 = Max(a2, b2, c2);
+int max3 = Max(a3, b3, c3);
+int max = Max(max1, max2, max3);
 
-if  (number==2)
-{
-    Console.WriteLine("Вторник");
-}
-if  (number==3)
-{
-    Console.WriteLine("Среда");
-}
-if  (number==4)
-{
-    Console.WriteLine("Четверг");
-}
-if  (number==5)
-{
-    Console.WriteLine("Пятница");
-}
-if  (number==6)
-{
-    Console.WriteLine("Суббота");
-}
-if  (number==7)
-{
-    Console.WriteLine("Воскресенье");
-}
+Console.WriteLine(max);
