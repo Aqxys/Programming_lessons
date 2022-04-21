@@ -1,19 +1,10 @@
-﻿// Третий семинар
-Console.Write("Введите число: ");
-int x = int.Parse(Console.ReadLine());
-int y = 0;
-int count = 1;
-Console.Write("Число " + x + "\t" + "Таблица квадратов ");
+﻿// таблица умножения через цикл for
 
-Quadrat(x);
-
-int Quadrat(int x)
+for (int i = 2; i <= 10; i++)
 {
-    while (count <= x)
+    for (int j = 2; j <= 10; j++)
     {
-        y = count * count;
-        Console.Write(y + " ");
-        count++;
+        Console.WriteLine($"{i}x{j}={i * j}");
     }
-    return y;
+    Console.WriteLine();
 }
